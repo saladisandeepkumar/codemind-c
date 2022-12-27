@@ -7,10 +7,10 @@ int main()
     if(c>=1 && c<=10)
     {
         printf("%d",c);
+        
     }
-    else 
-    
+    else
     {
         printf("-1");
     }
-}
+    }
