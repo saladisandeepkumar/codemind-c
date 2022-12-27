@@ -10,15 +10,14 @@ int main()
             b=a/4;
             printf("%d",b);
         }
-        else if(a%4>0)
+        else if(a/4>0)
         {
             b=(a/4)+1;
             printf("%d",b);
+            
+        }}
+        else{
+            printf("1");
         }
+        
     }
-    else 
-    {
-        printf("1");
-    }
-    
-}
