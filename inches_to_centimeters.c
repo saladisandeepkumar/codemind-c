@@ -6,4 +6,5 @@ int main()
     float b;
     b=a*2.54;
     printf("%.2f",b);
+    
 }
