@@ -3,7 +3,7 @@ int main()
 {
     int n,d,a[100],i,j;
     scanf("%d",&n);
-    i=0;
+    i=0; 
     while(n!=0)
     {
         d=n%10;
